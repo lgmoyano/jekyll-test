@@ -4,4 +4,10 @@ show_downloads: ["true"]
 
 # Build settings
 # markdown: kramdown
+<<<<<<< HEAD
 # exclude: ["Gemfile", "Gemfile.lock", ".gitignore", "Rakefile", "config.ru", "vendor", "TODO"]
+=======
+exclude: ["Gemfile", "Gemfile.lock", ".gitignore", "Rakefile", "config.ru", "vendor", "TODO"]
+
+theme: jekyll-theme-cayman
+>>>>>>> b75ac08e1203db37daca11f3d3832bede21c41bd
