@@ -4,4 +4,4 @@ show_downloads: ["true"]
 
 # Build settings
 # markdown: kramdown
-exclude: ["Gemfile", "Gemfile.lock", ".gitignore", "Rakefile", "config.ru", "vendor", "TODO"]
+# exclude: ["Gemfile", "Gemfile.lock", ".gitignore", "Rakefile", "config.ru", "vendor", "TODO"]
