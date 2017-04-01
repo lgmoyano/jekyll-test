@@ -1,0 +1,16 @@
+#+Title: "Otro post"
+#+STARTUP: showall expand
+#+options: toc:nil
+
+#+begin_src yaml :exports results :results value html
+---
+layout: default
+#layout: post
+title:  "Siguiendo"
+date:   2017-04-29 15:14:12 -0300
+categories: jekyll update
+---
+#+end_src
+#+results:
+
+Siguiendo con los posts.

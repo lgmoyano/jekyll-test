@@ -1,3 +1,15 @@
-#+title: "About This Website"
+#+Title: "Sobre este curso"
+#+STARTUP: showall expand
+#+options: toc:nil
 
-More about this website.
+#+begin_src yaml :exports results :results value html
+  ---
+#  layout: page
+  layout: default
+  title: About
+  ---
+#+end_src
+#+results:
+
+* Prof. Luis G. Moyano
+* Objetivos

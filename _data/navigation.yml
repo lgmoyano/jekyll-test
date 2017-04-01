@@ -1,0 +1,19 @@
+docs_list_title: Docs
+docs:
+  
+- title: "Home"
+  url: "/"
+
+- title: "Mis Posts"
+  url: "/_posts/"
+
+- title: "Clases"
+  url: "/classes/"
+
+- title: "Recursos"
+  url: "/resources/"
+
+- title: "Sobre"
+  url: "/about/"
+
+  

@@ -1,19 +1,17 @@
-#+title: Programacion y analisis de datos en R con aplicaciones cientificas - 2017
+#+title: Programación y análisis de datos en R con aplicaciones científicas - 2017
 #+STARTUP: showall expand
 #+options: toc:nil
 
-# #+begin_src yaml :exports results :results value html
-#   ---
-#   layout: default
-#   title: test post with yaml source block frontmatter 
-#   ---
-# #+end_src
-# #+results:
+#+begin_src yaml :exports results :results value html
+---
+layout: default
+title: Home 
+---
+#+end_src
+#+results:
 
-* let us try to export his to markdown
- - now we are talking
- - [[file:about.html][about link]]
+This is a course on R
 
-** trying subheader to check changes are seen well
-
- 
+- this is some list of some sort
+- what to put here
+- dunno

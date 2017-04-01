@@ -1,0 +1,9 @@
+#+STARTUP: showall expand
+#+options: toc:nil
+#+begin_src yaml :exports results :results value html
+---
+layout: home
+title: Posts - index under posts
+---
+#+end_src
+#+results:
